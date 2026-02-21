@@ -21,13 +21,13 @@ At the end of the quiz:
 ## 🖼 Screenshots
 
 ### 🏠 Home / Question Screen
-![Home Screen](home_screen.png)
+![Home Screen](home_screen.jpeg)
 
 ### ❓ Quiz in Progress
-![Quiz Screen](quiz_screen.png)
+![Quiz Screen](quiz_screen.jpeg)
 
 ### 🎉 Result Screen
-![Result Screen](result_image.png)
+![Result Screen](result_image.jpeg)
 
 
 
